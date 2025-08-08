@@ -1,9 +1,8 @@
-Here’s a polished **README.md** for your **Automated Document Classification** project so it looks professional when you push it to GitHub:
-
----
-
-````markdown
 # 📄 Automated Document Classification
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](../../issues)
 
 An AI-powered system that classifies text documents into predefined categories using multiple Machine Learning algorithms.  
 The project includes document preprocessing, feature extraction, model training, and evaluation — all integrated into a simple and scalable Python-based application.
@@ -121,6 +120,13 @@ seaborn
 
 ---
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
@@ -134,9 +140,34 @@ This project is open-source and available under the [MIT License](LICENSE).
 * GitHub: [@Divyansh2412](https://github.com/Divyansh2412)
 * LinkedIn: [Profile](https://www.linkedin.com/in/divyansh-miyan-bazaz-723792231/)
 
-```
+````
 
 ---
 
-If you want, I can also **add a sample `LICENSE` file** and **GitHub badges** so the repo looks even more professional. That will make it more attractive for recruiters and collaborators.
-```
+### **LICENSE File (MIT)**
+Create a file named `LICENSE` in your project folder with:
+
+```text
+MIT License
+
+Copyright (c) 2025 Divyansh Miyan Bazaz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+````
+
